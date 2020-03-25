@@ -1,0 +1,273 @@
+.traffic {
+  width: 100%;
+  background: #f8f8f8;
+
+  //   min-height: 87vh;
+  .bannertop {
+    width: 10rem;
+    font-size: 0px;
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+// 栏目标题
+.title_all {
+  width: 100%;
+  height: 1.2rem;
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  .span {
+    display: block;
+    width: 0.08rem;
+    height: 0.4rem;
+    background-color: #1280e1;
+    border-radius: 0.04rem;
+    margin-right: 0.173rem;
+    color: #1280e1;
+  }
+
+  p {
+    height: 0.387rem;
+    font-family: "微软雅黑";
+    font-size: 0.4rem;
+    font-weight: bold;
+    font-stretch: normal;
+    line-height: 0.387rem;
+    letter-spacing: 0rem;
+    color: #222222;
+  }
+}
+
+.title_blue_all {
+  width: 100%;
+  height: 1.2rem;
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  .blue_span {
+    display: block;
+    width: 0.187rem;
+    height: 0.187rem;
+    background-color: #2190ee;
+    margin-right: 0.173rem;
+  }
+
+  p {
+    height: 0.36rem;
+    font-family: "微软雅黑";
+    font-size: 0.373rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.36rem;
+    letter-spacing: 0rem;
+    color: #2190ee;
+  }
+}
+
+.content1 {
+  width: 10rem;
+  height: 8.667rem;
+  background-color: #ffffff;
+  margin: 0.267rem 0px;
+  padding: 1px 0.4rem;
+  box-sizing: border-box;
+
+  .con1_word {
+    width: 100%;
+    // height: 1.267rem;
+    font-family: PingFang-SC-Medium;
+    font-size: 0.32rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.48rem;
+    letter-spacing: 0rem;
+    color: #666666;
+    margin: -0.05rem 0 0 0;
+  }
+
+  .item1 {
+    .item1_title {
+      width: max-content;
+      height: 0.64rem;
+      background-color: rgba(33, 144, 238, 0.2);
+      border-radius: 0.107rem;
+      font-family: PingFang-SC-Medium;
+      font-size: 0.347rem;
+      font-weight: normal;
+      font-stretch: normal;
+      line-height: 0.64rem;
+      letter-spacing: 0rem;
+      color: #2190ee;
+      text-align: center;
+      padding: 0 0.227rem;
+    }
+
+    .item1_word {
+      height: 0.307rem;
+      font-family: PingFang-SC-Medium;
+      font-size: 0.32rem;
+      font-weight: normal;
+      font-stretch: normal;
+      line-height: 0.307rem;
+      letter-spacing: 0rem;
+      color: #666666;
+      margin: 0.2rem 0 0.4rem 0;
+    }
+  }
+}
+
+.content2 {
+  width: 10rem;
+  height: 4.053rem;
+  background-color: #ffffff;
+  margin: 0.267rem 0px;
+  padding: 0.4rem 0.4rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-wrap: wrap;
+
+  .item2 {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+
+    a {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: space-between;
+      // align-items: center;
+      box-sizing: border-box;
+
+      .item2_title {
+        height: 0.373rem;
+        font-family: PingFang-SC-Medium;
+        font-size: 0.4rem;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 0.373rem;
+        letter-spacing: 0rem;
+        color: #222222;
+        margin-top: 0.2rem;
+      }
+      .four_div {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        .item2_word {
+          width: 1.067rem;
+          height: 1.067rem;
+          border-radius: 50%;
+          margin-right: 0.28rem;
+        }
+      }
+    }
+  }
+
+  .item2:nth-child(1) {
+    border-right: 1px solid rgb(246, 246, 246);
+    border-bottom: 1px solid rgb(246, 246, 246);
+    .item2_word:nth-child(1) {
+      margin-right: 0.2rem;
+    }
+  }
+
+  .item2:nth-child(2) {
+    border-bottom: 1px solid rgb(246, 246, 246);
+    padding-left: 0.4rem;
+  }
+
+  .item2:nth-child(3) {
+    border-right: 1px solid rgb(246, 246, 246);
+    padding-top: 0.2rem;
+    box-sizing: border-box;
+    .item2_word:nth-child(1) {
+      margin-right: 0.2rem;
+    }
+  }
+
+  .item2:nth-child(4) {
+    padding-left: 0.4rem;
+    padding-top: 0.2rem;
+    box-sizing: border-box;
+  }
+}
+
+.content3 {
+  width: 10rem;
+  background-color: #ffffff;
+  margin: 0.267rem 0px;
+  padding: 0rem 0.4rem;
+  box-sizing: border-box;
+
+  .list {
+    .con3_title {
+      height: 0.36rem;
+      font-family: "微软雅黑";
+      font-size: 0.373rem;
+      font-weight: bold;
+      font-stretch: normal;
+      line-height: 0.36rem;
+      letter-spacing: 0rem;
+      color: #222222;
+      padding: 0.4rem 0px;
+    }
+
+    .con3_list {
+      .con3_item {
+        height: 0.36rem;
+        display: flex;
+        align-items: center;
+
+        .item_blue {
+          width: 0.187rem;
+          height: 0.187rem;
+          background-color: #2190ee;
+          margin-right: 0.2rem;
+        }
+
+        .item_title {
+          height: 0.36rem;
+          font-family: PingFang-SC-Medium;
+          font-size: 0.373rem;
+          font-weight: normal;
+          font-stretch: normal;
+          line-height: 0.36rem;
+          letter-spacing: 0rem;
+          color: #2190ee;
+        }
+      }
+
+      .con3_word {
+        font-family: PingFang-SC-Medium;
+        font-size: 0.32rem;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 0.48rem;
+        letter-spacing: 0rem;
+        color: #666666;
+        margin: 0.2rem 0 0.5rem 0;
+      }
+    }
+  }
+  .list:nth-child(2) {
+    margin-top: -0.5rem;
+  }
+  .list:nth-child(3) {
+    margin-top: -0.5rem;
+  }
+  .list:nth-child(4) {
+    margin-top: -0.5rem;
+  }
+}

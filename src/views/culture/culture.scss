@@ -1,0 +1,69 @@
+.culture {
+  padding: #f8f8f8;
+  min-height: 87vh;
+  .bannertop {
+    width: 10rem;
+    font-size: 0px;
+    img {
+      width: 100%;
+    }
+  }
+}
+.btn {
+  width: 10rem;
+  height: 1.333rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .btn_left {
+    width: 50%;
+    height: 1.333rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "微软雅黑";
+    font-size: 0.4rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 1.333rem;
+    letter-spacing: 0rem;
+    color: #ffffff;
+    div{
+      width: 100%;
+      height: 0.7rem;
+      line-height: 0.7rem;
+      text-align: center;
+    }
+    .right1{
+      border-right: 1px solid#e1e1e1;
+    }
+  }
+}
+.list {
+  width: 100%;
+  padding: 0.4rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  .item {
+    width: 4.4rem;
+    img {
+      width: 100%;
+      height: 3.307rem;
+    }
+    .right {
+      .title {
+        height: 0.293rem;
+        font-family: "微软雅黑";
+        font-size: 0.32rem;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 0.4rem;
+        letter-spacing: 0rem;
+        color: #222222;
+        margin: 0.187rem 0px 1.04rem 0px;
+      }
+    }
+  }
+}

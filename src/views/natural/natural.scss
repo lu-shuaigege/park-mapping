@@ -1,0 +1,207 @@
+.natural {
+  width: 100%;
+  background: #f8f8f8;
+  min-height: 87vh;
+  .bannertop {
+    width: 10rem;
+    font-size: 0px;
+    img {
+      width: 100%;
+    }
+  }
+}
+.content1 {
+  width: 10rem;
+  height: 14rem;
+  background-color: #ffffff;
+  margin: 0.267rem 0px;
+  padding: 1px 0.4rem;
+  box-sizing: border-box;
+  .con1_title {
+    height: 0.36rem;
+    font-family: PingFang-SC-Bold;
+    font-size: 0.373rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.36rem;
+    letter-spacing: 0rem;
+    color: #333333;
+    margin: 0.4rem 0;
+    text-align: center;
+  }
+  .con1_word {
+    height: 1.267rem;
+    font-family: PingFang-SC-Medium;
+    font-size: 0.32rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.48rem;
+    letter-spacing: 0rem;
+    color: #666666;
+  }
+  .title {
+    display: flex;
+    align-items: center;
+    height: 0.36rem;
+    margin: 0.653rem 0 0.4rem 0;
+    .blue {
+      width: 0.187rem;
+      height: 0.187rem;
+      background-color: #2190ee;
+      margin-right: 0.2rem;
+    }
+    .titlecon {
+      height: 0.36rem;
+      font-family: PingFang-SC-Medium;
+      font-size: 0.373rem;
+      font-weight: normal;
+      font-stretch: normal;
+      line-height: 0.36rem;
+      letter-spacing: 0rem;
+      color: #2190ee;
+    }
+  }
+  .list {
+    width: 100%;
+    // padding: 0px 0.4rem;
+    // box-sizing: border-box;
+    .item {
+      width: 100%;
+      .top {
+        height: 1.067rem;
+        display: flex;
+        align-items: center;
+        .left {
+          width: 1.067rem;
+          height: 1.067rem;
+        }
+        .right {
+          padding-left: 0.267rem;
+          box-sizing: border-box;
+          .right_title {
+            height: 0.333rem;
+            font-family: PingFang-SC-Medium;
+            font-size: 0.347rem;
+            font-weight: normal;
+            font-stretch: normal;
+            line-height: 0.333rem;
+            letter-spacing: 0rem;
+            color: #222222;
+            margin-bottom: 0.267rem;
+          }
+          .right_word {
+            height: 0.32rem;
+            font-family: PingFang-SC-Regular;
+            font-size: 0.32rem;
+            font-weight: normal;
+            font-stretch: normal;
+            line-height: 0.32rem;
+            letter-spacing: 0rem;
+            color: #666666;
+          }
+        }
+      }
+      .bottom {
+        width: 2px;
+        height: 0.533rem;
+        background-color: #f8f8f8;
+        border-radius: 0.02rem;
+        margin: 0.08rem 0.507rem;
+      }
+    }
+  }
+}
+.content2 {
+  width: 10rem;
+  background-color: #ffffff;
+  padding: 1px 0.4rem 0.44rem 0.4rem;
+  box-sizing: border-box;
+  margin: 0.267rem 0px;
+  .list {
+    width: 9.2rem;
+    background-color: #ffffff;
+    border-radius: 0.107rem;
+    border: solid 1px #e1e1e1;
+    padding: 0.28rem 0.4rem;
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    margin-bottom: 0.267rem;
+    .left {
+      width: 0.64rem;
+      height: 0.667rem;
+      margin: 0.147rem 0.667rem 0 0;
+    }
+    .center {
+      .center_title {
+        height: 0.347rem;
+        font-family: PingFang-SC-Medium;
+        font-size: 0.373rem;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 0.347rem;
+        letter-spacing: 0rem;
+        color: #222222;
+        margin-bottom: 0.25rem;
+      }
+      .center_word {
+        // height: 0.8rem;
+        font-family: PingFang-SC-Medium;
+        font-size: 0.32rem;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 0.47rem;
+        letter-spacing: 0rem;
+        color: #666666;
+      }
+    }
+    .righticon {
+      width: 0.453rem;
+      height: 0.453rem;
+      border-radius: 50%;
+      position: absolute;
+      top: 0.3rem;
+      right: 0.4rem;
+    }
+  }
+}
+
+// 栏目标题
+.title_all {
+  width: 100%;
+  height: 1.2rem;
+  display: flex;
+  align-items: center;
+  position: relative;
+  .span {
+    display: block;
+    width: 0.08rem;
+    height: 0.4rem;
+    background-color: #1280e1;
+    border-radius: 0.04rem;
+    margin-right: 0.173rem;
+    color: #1280e1;
+  }
+  p {
+    height: 0.387rem;
+    font-family: "微软雅黑";
+    font-size: 0.4rem;
+    font-weight: bold;
+    font-stretch: normal;
+    line-height: 0.387rem;
+    letter-spacing: 0rem;
+    color: #222222;
+  }
+}
+.content3 {
+  width: 10rem;
+  background-color: #ffffff;
+  padding: 1px 0.4rem 0.44rem 0.4rem;
+  box-sizing: border-box;
+  margin: 0.267rem 0px;
+  font-size: 0;
+  .word {
+    width: 9.2rem;
+    height: 9.467rem;
+  }
+}
