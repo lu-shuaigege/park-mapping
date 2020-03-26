@@ -117,7 +117,7 @@ export default {
             //路由跳转携带参数
             this.$router.push({
                 name: "details",
-                params: {
+                query: {
                     details: id
                 }
             });
