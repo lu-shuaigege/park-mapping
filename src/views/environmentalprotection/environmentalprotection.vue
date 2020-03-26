@@ -16,9 +16,9 @@
             <!-- <img class="word" src="../../assets/imgs/environmentalprotection/img1.png" alt /> -->
             <!-- <img class="word" src="../../assets/切图/园区测绘移动端/3x/资源 1@3x.png" alt /> -->
         </div>
-        <div class="content2">
-            <!-- 标题 -->
-            <div class="title_all">
+        <!-- <div class="content2"> -->
+        <!-- 标题 -->
+        <!-- <div class="title_all">
                 <span class="span"></span>
                 <p>建设目标</p>
             </div>
@@ -34,22 +34,46 @@
                     <p class="con1">当监测站检测到相关污染物的浓度超过阈值时，平台会通过短信、电话等方式对相关负责人发送报警信息</p>
                 </div>
             </div>
-        </div>
+        </div>-->
         <div class="content2">
             <!-- 标题 -->
-            <div class="title_all">
+            <!-- <div class="title_all">
                 <span class="span"></span>
                 <p>解决问题</p>
             </div>
-            <img class="word" src="../../assets/imgs/environmentalprotection/img4.png" alt />
+            <img class="word" src="../../assets/imgs/environmentalprotection/img4.png" alt />-->
+            <img
+                class="word"
+                src="../../assets/imgs/environmentalprotection/environmentalprotectiona.png"
+            />
+            <img
+                class="word"
+                src="../../assets/imgs/environmentalprotection/environmentalprotectionb.png"
+            />
+            <img
+                class="word"
+                src="../../assets/imgs/environmentalprotection/environmentalprotectionc.png"
+            />
         </div>
         <div class="content2">
             <!-- 标题 -->
-            <div class="title_all">
+            <!-- <div class="title_all">
                 <span class="span"></span>
                 <p>产品特色</p>
             </div>
-            <img class="word" src="../../assets/imgs/environmentalprotection/img5.png" alt />
+            <img class="word" src="../../assets/imgs/environmentalprotection/img5.png" alt />-->
+            <img
+                class="word"
+                src="../../assets/imgs/environmentalprotection/environmentalprotectiond.png"
+            />
+            <img
+                class="word"
+                src="../../assets/imgs/environmentalprotection/environmentalprotectione.png"
+            />
+            <img
+                class="word"
+                src="../../assets/imgs/environmentalprotection/environmentalprotectionf.png"
+            />
         </div>
         <div class="content2">
             <!-- 标题 -->

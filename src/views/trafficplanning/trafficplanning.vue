@@ -31,9 +31,9 @@
                 </div>
             </div>
         </div>
-        <div class="content1">
-            <!-- 标题 -->
-            <div class="title_all">
+        <!-- <div class="content1"> -->
+        <!-- 标题 -->
+        <!-- <div class="title_all">
                 <span class="span"></span>
                 <p>解决问题</p>
             </div>
@@ -43,7 +43,7 @@
             <p
                 class="title"
             >秉承衔接优化，协调发展的规划理念，以融合多源数据为内核，以数据流串联业务流，构建多模式全出行链，实现交通规划领域数据闭环的应用，从而实现交通规划资源整合化、管理精细化、决策科学化。</p>
-        </div>
+        </div>-->
         <div class="content1">
             <!-- 标题 -->
             <!-- <div class="title_all">

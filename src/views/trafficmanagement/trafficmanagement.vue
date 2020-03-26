@@ -4,9 +4,9 @@
         <div class="bannertop" :style="{background: 'url('+bannertop_img.image+')'}">
             <!-- <img :src="bannertop_img.image" alt /> -->
         </div>
-        <div class="content1">
-            <!-- 标题 -->
-            <div class="title_all">
+        <!-- <div class="content1"> -->
+        <!-- 标题 -->
+        <!-- <div class="title_all">
                 <span class="span"></span>
                 <p>产品特色</p>
             </div>
@@ -16,11 +16,11 @@
                     src="../../assets/imgs/trafficmanagement/trafficmanagement1.png"
                 />
             </div>
-        </div>
+        </div>-->
         <div class="content1">
             <div class="content1-con">
-                <img src="../../assets/imgs/trafficmanagement/productservicea.png" />
                 <img src="../../assets/imgs/trafficmanagement/productserviceb.png" />
+                <img src="../../assets/imgs/trafficmanagement/productservicea.png" />
             </div>
             <!-- 标题 -->
             <!-- <div class="title_all">

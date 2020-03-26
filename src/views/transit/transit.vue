@@ -4,19 +4,20 @@
         <div class="bannertop" :style="{background: 'url('+bannertop_img.image+')'}">
             <!-- <img :src="bannertop_img.image" alt /> -->
         </div>
-        <div class="content1">
-            <!-- 标题 -->
-            <div class="title_all">
+        <!-- <div class="content1"> -->
+        <!-- 标题 -->
+        <!-- <div class="title_all">
                 <span class="span"></span>
                 <p>产品特色</p>
             </div>
             <div class="word">
                 <img class="word_img" src="../../assets/imgs/transit/transit1.png" alt />
             </div>
-        </div>
+        </div>-->
         <div class="content1">
-            <img class="content1-conImg" src="../../assets/imgs/transit/busa.png" alt />
             <img class="content1-conImg" src="../../assets/imgs/transit/busf.png" alt />
+            <img class="content1-conImg" src="../../assets/imgs/transit/busa.png" alt />
+
             <!-- <img class="content1-conImg" src="../../assets/imgs/transit/busd.png" alt />
             <img class="content1-conImg" src="../../assets/imgs/transit/busc.png" alt />-->
 
